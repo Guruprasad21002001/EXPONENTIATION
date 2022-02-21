@@ -15,8 +15,8 @@ To write a program to find the exponentiation of a number.
 ```
 /*
 Program to find the exponentiation of a number.
-Developed by: vishal
-RegisterNumber:21002997
+Developed by: Guruprasad.B
+RegisterNumber:21002001
 */
 x=int(input())
 def exp():
